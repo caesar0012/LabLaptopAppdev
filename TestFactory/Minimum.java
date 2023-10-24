@@ -30,10 +30,4 @@ class Minimum extends Laptop{
         return this.cpu;
     }
 
-
-
-
-
-
-
 }
